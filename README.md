@@ -8,5 +8,5 @@ Personal website developed for study and keeps searching improvements. The Syste
 you can access it [here](http://leonardoferreira.epizy.com).
 
 ## Contacts
-[Linkedin](https://www.linkedin.com/in/leonardoferreira089/)
+[Linkedin](https://www.linkedin.com/in/leonardoferreira089/)<br />
 [GitHub](https://github.com/leonardoferreira089)
